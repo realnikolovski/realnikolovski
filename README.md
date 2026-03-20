@@ -17,6 +17,7 @@ Backend     Convex · Supabase
 Auth        Clerk
 Payments    Stripe
 Deploy      Vercel
+Languages   Java · Python · Typescript · Javascript · SQL
 ```
 
 ---
