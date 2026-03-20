@@ -1,45 +1,42 @@
-<h1 align="left">Hi 👋! My name is Niko and I'm a Fullstack Developer, from Germany</h1>
+<h2 align="center">Niko Nikolovski</h2>
+<p align="center">Software Developer · Northern Germany</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wrxngdev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wrxngdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+I build full-stack web applications with a focus on clean architecture, fast iteration, and shipping products that work.
 
-###
+My approach: pick the right tools, keep the stack lean, and build things end-to-end — from database schema to deployed UI.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/niko-nikolovski-0a6707212/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://dev.to/wrxngdev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="devto logo"  />
-  </a>
-</div>
+---
 
-###
+**Stack**
 
-<h2 align="center">-=+ SKILLS +=-</h2>
+```
+Frontend    Next.js · Tailwind CSS · shadcn/ui
+Backend     Convex · Supabase
+Auth        Clerk
+Payments    Stripe
+Deploy      Vercel
+```
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-</div>
+**Focus**
 
-###
+- Full-stack product development
+- SaaS architecture & scalable backends
+- Turning ideas into deployed, working software
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=realnikolovski&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realnikolovski&layout=compact&hide_border=true&theme=github_dark" height="150"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:niko.nikoloski16@outlook.de">Email</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/realnikolovski">LinkedIn</a>
+</p>
